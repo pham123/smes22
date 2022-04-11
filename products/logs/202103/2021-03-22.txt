@@ -1,0 +1,3 @@
+2021-03-22 10:26:34	products  update 1 ProductsNumber(ACQ30002201=>ACQ30002201) ProductsName(VW AR HUD cover bottom assy=>VW AR HUD cover bottom assy (LHD)) ModelsId(2=>2) file=listen-update-material.php
+2021-03-22 10:46:34	products  update 3620 ProductsNumber(MEK64986801=>MEK64986801) ProductsName(BMG iID Rear Housing =>BMG iID Rear Housing (Parallel)) ModelsId(1=>1) file=listen-update-material.php
+2021-03-22 11:17:09	products  update 2 ProductsNumber(MCK71113301=>MCK71113301) ProductsName(VW AR HUD cover bottom single =>VW AR HUD cover bottom single (LHD)) ModelsId(2=>2) file=listen-update-material.php

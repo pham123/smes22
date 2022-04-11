@@ -1,0 +1,2 @@
+2020-03-17 09:58:27	products dongpx create ProductsNumber=BOX001 ModelsId=1 file=listen-create-material.php
+2020-03-17 09:59:03	products dongpx create ProductsNumber=PALLET001 ModelsId=1 file=listen-create-material.php

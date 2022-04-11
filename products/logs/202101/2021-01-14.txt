@@ -1,0 +1,4 @@
+2021-01-14 08:21:34	products  create ProductsNumber=MBN65582901 ModelsId=1 file=listen-create-material.php
+2021-01-14 08:33:28	products  create ProductsNumber=MBN65582901HEV ModelsId=1 file=listen-create-material.php
+2021-01-14 10:07:10	products  create ProductsNumber=MBN65582901HEV ModelsId=1 file=listen-create-material.php
+2021-01-14 10:17:26	products  update 3987 ProductsNumber(MBN65582901HEV=>MBN65582901HEV) ProductsName(LHD Heatsink PGU 1=>LHD Heatsink PGU 1) ModelsId(1=>1) file=listen-update-material.php

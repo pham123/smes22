@@ -1,0 +1,18 @@
+2020-04-07 14:44:14	products dongpx create ProductsNumber=A9120AA46 ModelsId=6 file=listen-create-material2.php
+2020-04-07 14:44:35	products dongpx create ProductsNumber=A9120AA47 ModelsId=6 file=listen-create-material2.php
+2020-04-07 14:44:53	products dongpx create ProductsNumber=ABQ76364202 ModelsId=1 file=listen-create-material2.php
+2020-04-07 14:45:10	products dongpx create ProductsNumber=AGM75229501 ModelsId=1 file=listen-create-material2.php
+2020-04-07 14:45:32	products dongpx create ProductsNumber=AVM REAR BODY ModelsId=6 file=listen-create-material2.php
+2020-04-07 14:45:54	products dongpx create ProductsNumber=FRONT BODY ModelsId=6 file=listen-create-material2.php
+2020-04-07 14:46:13	products dongpx create ProductsNumber=LA10200012A ModelsId=1 file=listen-create-material2.php
+2020-04-07 14:51:54	products dongpx create ProductsNumber=MEF64141901 ModelsId=1 file=listen-create-material2.php
+2020-04-07 14:53:13	products dongpx create ProductsNumber=11DC0719 ModelsId=21 file=listen-create-material2.php
+2020-04-07 14:53:26	products dongpx create ProductsNumber=MEL62021703 ModelsId=1 file=listen-create-material2.php
+2020-04-07 14:53:39	products dongpx create ProductsNumber=MBF64484001 ModelsId=1 file=listen-create-material2.php
+2020-04-07 14:53:51	products dongpx create ProductsNumber=MCZ62653502 ModelsId=1 file=listen-create-material2.php
+2020-04-07 14:54:08	products dongpx create ProductsNumber=MCK71113301 ModelsId=2 file=listen-create-material2.php
+2020-04-07 14:54:40	products dongpx create ProductsNumber=MCK69457702 ModelsId=2 file=listen-create-material2.php
+2020-04-07 14:54:53	products dongpx create ProductsNumber=MCK69428102 ModelsId=2 file=listen-create-material2.php
+2020-04-07 14:55:15	products dongpx create ProductsNumber=MCK69865002 ModelsId=2 file=listen-create-material2.php
+2020-04-07 14:56:37	products dongpx create ProductsNumber=B115002756 ModelsId=22 file=listen-create-material2.php
+2020-04-07 14:56:55	products dongpx create ProductsNumber=B115002761 ModelsId=22 file=listen-create-material2.php

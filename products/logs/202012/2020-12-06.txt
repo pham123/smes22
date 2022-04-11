@@ -1,0 +1,2 @@
+2020-12-06 14:56:03	products  create ProductsNumber=xe lồng sắt ModelsId=1 file=listen-create-material.php
+2020-12-06 14:57:08	products  update 3758 ProductsNumber(xe lồng sắt=>XE LỒNG SẮT) ProductsName(xe lồng sắt=>XE LỒNG SẮT) ModelsId(1=>1) file=listen-update-material.php

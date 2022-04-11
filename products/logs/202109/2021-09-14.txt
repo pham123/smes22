@@ -1,0 +1,6 @@
+2021-09-14 09:10:48	products  update 4430 ProductsNumber(MAZ66007801=>MAZ66007801) ProductsName(Bracket Assembly w/ Thermal Pad=>RSI Core Plate DC) ModelsId(1=>1) file=listen-update-material.php
+2021-09-14 09:47:22	products  create ProductsNumber=MCK71113301 ModelsId=1 file=listen-create-material.php
+2021-09-14 14:10:06	products  create ProductsNumber=MCK70164701 ModelsId=1 file=listen-create-material.php
+2021-09-14 14:20:18	products  create ProductsNumber=MCK70164701 ModelsId=1 file=listen-create-material.php
+2021-09-14 14:22:01	products  create ProductsNumber=MCK70124901 ModelsId=1 file=listen-create-material.php
+2021-09-14 14:23:39	products  create ProductsNumber=MCK70124901 ModelsId=1 file=listen-create-material.php

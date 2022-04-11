@@ -1,0 +1,4 @@
+2020-10-14 14:40:11	products  create ProductsNumber=ABQ77500101 ModelsId=2 file=listen-create-material.php
+2020-10-14 14:40:33	products  create ProductsNumber=ABQ30016301 ModelsId=2 file=listen-create-material.php
+2020-10-14 14:40:54	products  create ProductsNumber=ACQ30067401 ModelsId=2 file=listen-create-material.php
+2020-10-14 14:41:09	products  create ProductsNumber=ACQ30067501 ModelsId=2 file=listen-create-material.php
