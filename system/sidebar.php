@@ -67,6 +67,15 @@ $arr = array(
 );
 echo nav_item_collapsed($oDB->lang('Memos'),'fa-folder',$arr,'Memos');
 
+
+$arr = array(
+  array('wipconfig.php','Wip Config'),
+  // MemoApplicability
+  array('wipstationassign.php','Wip Station Assign'),
+);
+echo nav_item_collapsed('Wip','fa-folder',$arr,'Wip');
+
+
 $arr = array(
   array('index.php?tables_Lang', 'fa-angle-right',$oDB->lang("Lang")),
   array('index.php?tables_Shift', 'fa-angle-right',$oDB->lang("Shift")),

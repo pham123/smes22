@@ -9,5 +9,5 @@ $wipno = $_GET['no'];
 $sql = "DELETE FROM `wipdetailcurrent` WHERE `WipNo` = ?";
 $sDB -> query($sql,$wipno);
 $sDB ->close();
-unset($_SESSION['wip']['SupplyChainObjectId']);
+unset($_SESSION['wip']);
 header('Location:wip.php');

@@ -31,6 +31,7 @@ echo nav_item($oDB->lang('Stock'),$arr);
 $arr = array(
   array('wipstationhis.php', 'fas fa-plus-square',$oDB->lang('StationHistory')),
   array('wipstationcur.php', 'fas fa-plus-square',$oDB->lang('WipCurrentQty')),
+  array('wipbyproduct.php', 'fas fa-plus-square',$oDB->lang('FindByProduct')),
 );
 echo nav_item($oDB->lang('Report'),$arr);
 

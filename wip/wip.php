@@ -42,12 +42,12 @@ foreach ($products as $key => $value) {
 }
 
 
-if (isset($_POST['SupplyChainObjectId'])&&$_POST['SupplyChainObjectId']!='') {
+if (isset($_POST['SupplyChainObjectId'])&&$_POST['SupplyChainObjectId']!=''&&isset($_POST['NextWipStation'])) {
 $_SESSION['wip']['SupplyChainObjectId'] = $_POST['SupplyChainObjectId'];
 $_SESSION['wip']['NextWipStation'] = $_POST['NextWipStation'];
 }
 
-if(isset($_SESSION['wip']['SupplyChainObjectId'])){
+if(isset($_SESSION['wip']['SupplyChainObjectId'])&&isset($_SESSION['wip']['NextWipStation'])){
 // Kiem tra xem tram wip nay co don nao dang lam do dang hay khong co wip nao khong
 $sql = "SELECT * FROM `wipdetailcurrent` WHERE `SupplyChainObjectId` = ?";
 $wipstationcurrent = $sDB->query($sql,$_SESSION['wip']['SupplyChainObjectId'])->fetchAll();
@@ -146,7 +146,7 @@ if (isset($wipstationcurrent[0])) {
           <br>
 
           <?php
-          if(isset($_SESSION['wip']['SupplyChainObjectId'])&&$wipstationcurrent[0]['UserId']==$user->id){
+          if(isset($_SESSION['wip']['SupplyChainObjectId'])&&isset($_SESSION['wip']['NextWipStation'])&&$wipstationcurrent[0]['UserId']==$user->id){
             ?>
             <table class="table table-bordered">
               <tbody>
@@ -248,7 +248,7 @@ if (isset($wipstationcurrent[0])) {
             <?php
             
           }else{
-            if(isset($_SESSION['wip']['SupplyChainObjectId'])){
+            if(isset($_SESSION['wip']['SupplyChainObjectId'])&&isset($_SESSION['wip']['NextWipStation'])){
               $sql = "SELECT * FROM `users` WHERE `UsersId` = ?";
               $user = $sDB->query($sql,$wipstationcurrent[0]['UserId'])->fetchArray();
               echo "<h1>".$scmstationbyid[$_SESSION['wip']['SupplyChainObjectId']]['Name']." đang được sử dụng bởi ".$user['UsersFullName'].", liên hệ để hoàn thành WIP hiện tại hoặc xóa bỏ</h1>";
